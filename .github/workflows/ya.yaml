@@ -1,0 +1,6 @@
+
+name: ya
+on: workflow_dispatch
+jobs:
+  first-job:
+    runs-on: ubuntu-latest
